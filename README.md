@@ -15,7 +15,7 @@ Welcome to my LeetCode Solutions Repository! 👋 Here, you'll find a collection
 Below is a list of LeetCode problems I've solved along with links to their respective solutions. Click on the links to view the detailed explanations and code.
 
 1. [**Two Sum**](https://leetcode.com/problems/two-sum)
-   - [Solution]()
+   - [Solution](https://github.com/codewithswe/LeetCode/blob/main/Two%20Sum)
 
 
 ## Contributing
