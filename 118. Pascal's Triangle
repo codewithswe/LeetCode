@@ -1,0 +1,12 @@
+function generate(numRows: number): number[][] {
+  if (numRows === 1) return [[1]];
+  const arr = [[1], [1, 1]];
+   for (let i = 1; i < numRows-1; i++) {
+    const sums = [];
+    for (let j = 1; j < arr[i].length; j++) {
+      sums.push(arr[i][j] + arr[i][j - 1]);
+    }
+    arr.push([1, ...sums, 1]);
+  }
+  return arr;
+};
