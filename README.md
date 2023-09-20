@@ -15,6 +15,7 @@ Welcome to my LeetCode Solutions Repository! 👋 Here, you'll find a collection
 Below is a list of LeetCode problems I've solved along with links to their respective solutions. Click on the links to view the detailed explanations and code.
 ## Easy
 1. [**Two Sum**](https://leetcode.com/problems/two-sum) - [Solution](https://github.com/codewithswe/LeetCode/blob/main/Two%20Sum)
+118. [**Pascal's Triangle**](https://leetcode.com/problems/pascals-triangle/)-[Solution](https://github.com/codewithswe/LeetCode/blob/main/118.%20Pascal's%20Triangle)
 ## Medium
 73. [**Set Matrix Zeros**](https://leetcode.com/problems/set-matrix-zeroes/) - [Solution](https://github.com/codewithswe/LeetCode/blob/main/73.%20Set%20Matrix%20Zeroes)
 ## Contributing
